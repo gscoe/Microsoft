@@ -1,2 +1,2 @@
 # mscrosoft
-microsoft 365 developerr
+microsoft 365 developer
